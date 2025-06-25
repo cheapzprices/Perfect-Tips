@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Tips, reviews, and recommendations on electronics with affiliate links." />
+  <title>Tech Tips - Recommended Electronics</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #004080;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav {
+      background: #e0e0e0;
+      padding: 1rem;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #004080;
+      font-weight: bold;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    article {
+      margin-bottom: 2rem;
+      background: #fff;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #004080;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #eee;
+      font-size: 0.9rem;
+    }
+    .botao-compra {
+      display: inline-block;
+      margin-top: 1rem;
+      background: #004080;
+      color: white;
+      padding: 10px 15px;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Tech Tips</h1>
+    <p>Reliable recommendations on electronics and gadgets</p>
+  </header>
+
+  <nav>
+    <a href="#notebooks">Laptops</a>
+    <a href="#smartphones">Smartphones</a>
+    <a href="#accessories">Accessories</a>
+  </nav>
+
+  <main>
+    <article id="notebooks">
+      <h2>Best Laptops for Study and Work (2025)</h2>
+      <p>We've selected the best value-for-money laptops for productivity, studying, and home office.</p>
+      <ul>
+        <li>Acer Aspire 5 - Ryzen 5, 8GB RAM, 256GB SSD</li>
+        <li>Lenovo IdeaPad 3i - Intel i5, 8GB RAM, 512GB SSD</li>
+      </ul>
+      <a class="botao-compra" href="https://yourstore.com/affiliate-laptop" target="_blank">View deals</a>
+    </article>
+
+    <article id="smartphones">
+      <h2>Top 3 Smartphones Under $400 in 2025</h2>
+      <p>Looking for a good phone without breaking the bank? Check our updated picks based on performance, battery, and camera quality.</p>
+      <ol>
+        <li>Samsung Galaxy M14 5G</li>
+        <li>Redmi Note 13</li>
+        <li>Motorola G73</li>
+      </ol>
+      <a class="botao-compra" href="https://yourstore.com/affiliate-smartphones" target="_blank">See recommended phones</a>
+    </article>
+
+    <article id="accessories">
+      <h2>Must-Have Accessories for Your Setup</h2>
+      <p>Enhance your experience with these affordable and useful accessories:</p>
+      <ul>
+        <li>Ergonomic laptop stand</li>
+        <li>Logitech wireless keyboard and mouse</li>
+        <li>QCY T13 Bluetooth earbuds</li>
+      </ul>
+      <a class="botao-compra" href="https://yourstore.com/affiliate-accessories" target="_blank">Check accessories</a>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Tech Tips. We participate in affiliate programs and may earn commissions from qualifying purchases.</p>
+  </footer>
+</body>
+</html>
